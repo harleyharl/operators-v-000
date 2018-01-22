@@ -1,4 +1,4 @@
-def unsafe?(speed)
+def unsafe?
 	if speed > 60 || speed < 40
 	unsafe?
 	end
